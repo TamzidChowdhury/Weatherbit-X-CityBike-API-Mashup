@@ -1,6 +1,6 @@
 # Weatherbit-X-CityBikes-API-Mashup
 
-This project uses two seperate APIS to create a mashup between them.
+This project uses two seperate APIs to create a mashup between them.
 
 ## Requirements: 
 
