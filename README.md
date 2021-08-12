@@ -14,6 +14,6 @@ This project uses two seperate APIs to create a mashup between them.
 
 4) Upon receiving the response from the second API request, your server will parse the response and finally send results back to the end user.
 
-The project requires two API's to be chosen, one of which **MUST have some form of authentication**. The [Weatherbit API](https://www.weatherbit.io/api/weather-current) have "API Key" authentication model, and the [CityBikes API](http://api.citybik.es/v2/) is a public API, with no authentication. 
+The project requires two API's to be chosen, one of which **MUST have some form of authentication**. The [Weatherbit API](https://www.weatherbit.io/api/weather-current) have "API Key" authentication model, and the [CityBikes API](http://api.citybik.es/v2/) is a public API, and therefore has no authentication. 
 
 **All codes are in Javascript and run synchronously.**
